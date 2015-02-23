@@ -29,3 +29,12 @@ a {
 a:hover {
   color: white;
 }
+
+footer {
+  background-color: #E7E7DA;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin-left: -1em;
+  text-indent: 1.5em;
+}
