@@ -3,7 +3,7 @@ body {
   font-family: Sans-serif;
 }
 
-div {
+.gitbutton {
   height: 1.2em;
   width: 5em;
   border-color: black;
@@ -12,6 +12,11 @@ div {
   border-width: .1em;
   border-radius: .4em;
   text-align: center;
+}
+
+.gitbutton:hover {
+  border-color: cyan;
+  color: cyan;
 }
 
 a {
