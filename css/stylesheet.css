@@ -14,9 +14,7 @@ body {
 
 .button:hover {
   border-color: cyan;
-  a {
-    text: white;
-  }
+  color: white;
 }
 
 .gitbutton {
@@ -27,4 +25,8 @@ body {
 a {
   text-decoration: none;
   color: #387FCF;
+}
+
+a:hover {
+  color: white;
 }
