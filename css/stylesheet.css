@@ -4,21 +4,20 @@ body {
 }
 
 .button {
-  border-color: black;
-  background-color: lightgray;
-  border-style: solid;
-  border-width: .1em;
+  background-color: white;
   border-radius: .4em;
   text-align: center;
+  color: #387FCF;
+  padding-top: .3em;
+  padding-bottom: .3em;
 }
 
 .button:hover {
-  border-color: cyan;
+  background-color: #387FCF;
   color: white;
 }
 
 .gitbutton {
-  height: 1.2em;
   width: 5em;
 }
 
