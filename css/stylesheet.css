@@ -14,7 +14,9 @@ body {
 
 .button:hover {
   border-color: cyan;
-  color: white;
+  a {
+    text: white;
+  }
 }
 
 .gitbutton {
