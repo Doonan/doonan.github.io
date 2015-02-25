@@ -32,7 +32,7 @@ a:hover {
 
 ul:before {
   content:attr(data-header);
-  margin-left: auto;
+  margin-left: -1em;
 }
 
 footer {
