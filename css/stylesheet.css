@@ -2,6 +2,7 @@ body {
   background-color: #C2C2A3;
   font-family: Sans-serif;
   font-size: 110%;
+  margin-bottom: 3em;
 }
 
 .button {
@@ -43,6 +44,7 @@ footer {
   background-color: #E7E7DA;
   position: fixed;
   bottom: 0;
+  height: 3em;
   width: 100%;
   margin-left: -1em;
   padding-right: 2em;
