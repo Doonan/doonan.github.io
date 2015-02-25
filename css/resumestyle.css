@@ -1,6 +1,6 @@
 div {
-	border-radius: 7px;
-	font-family: Sans-serif;
+  border-radius: 7px;
+  font-family: Sans-serif;
 }
 
 li {
@@ -70,6 +70,6 @@ div h4 {
 }
 
 #footer p {
-	position: relative;
-	padding-top: 11px;
+  position: relative;
+  padding-top: 11px;
 }
