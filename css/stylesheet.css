@@ -1,6 +1,7 @@
 body {
   background-color: #C2C2A3;
   font-family: Sans-serif;
+  font-size: 110%;
 }
 
 .button {
@@ -10,6 +11,7 @@ body {
   color: #387FCF;
   padding-top: .3em;
   padding-bottom: .3em;
+  white-space: nowrap;
 }
 
 .button:hover {
@@ -32,7 +34,9 @@ a:hover {
 
 ul:before {
   content:attr(data-header);
-  margin-left: -1em;
+  margin-left: -1.5em;
+  font-weight: bold;
+  white-space: nowrap;
 }
 
 footer {
