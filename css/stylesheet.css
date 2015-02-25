@@ -30,16 +30,9 @@ a:hover {
   color: white;
 }
 
-ul:before{
+ul:before {
   content:attr(data-header);
   margin-left: auto;
-}
-
-ul:before{
-    content:attr(data-header);
-    font-size:120%;
-    font-weight:bold;
-    margin-left:-15px;
 }
 
 footer {
