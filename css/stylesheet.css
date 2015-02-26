@@ -1,7 +1,8 @@
 body {
   background-color: #C2C2A3;
   font-family: Sans-serif;
-  font-size: 110%;
+  font-size: 18px;
+  line-height: 1.1em;
   margin-bottom: 6em;
 }
 
@@ -40,7 +41,7 @@ ul:before {
   white-space: nowrap;
 }
 
-footer {
+.foot {
   background-color: #E7E7DA;
   position: fixed;
   bottom: 0;
