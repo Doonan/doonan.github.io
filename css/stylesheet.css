@@ -55,19 +55,20 @@ ul:before {
   position: relative;
   min-height: 90%;
   margin: 0 auto -2em;
-  padding-bottom: 2em;
 }
 
-footer {
+.foot {
   background-color: #E7E7DA;
   width: 100%;
   margin-top: 0;
+  height: 2em;
   margin-left: -1em;
   padding-right: 1em;
   padding-top: 1em;
   text-indent: 1.5em;
 }
 
-footer, .push {
+.push {
   height: 2em;
+  margin-bottom: 2em;
 }
