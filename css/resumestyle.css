@@ -6,6 +6,7 @@ body {
 div {
   border-radius: 7px;
   font-family: Sans-serif;
+  white-space: nowrap
 }
 
 li {
