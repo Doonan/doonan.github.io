@@ -6,7 +6,6 @@ body {
 div {
   border-radius: 7px;
   font-family: Sans-serif;
-  white-space: nowrap
 }
 
 li {
@@ -66,6 +65,8 @@ div h4 {
   margin-top: 50px;
   margin-bottom: 10px;
   display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 #footer {
