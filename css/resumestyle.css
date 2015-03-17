@@ -6,8 +6,6 @@ body {
 div {
   border-radius: 7px;
   font-family: Sans-serif;
-  white-space: nowrap;
-  overflow: hidden;
 }
 
 li {
@@ -27,6 +25,8 @@ div h4 {
   margin-bottom: 10px;
   width: 98.8%;
   height: 3.5em;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .title {
@@ -67,6 +67,8 @@ div h4 {
   margin-top: 50px;
   margin-bottom: 10px;
   display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 #footer {
