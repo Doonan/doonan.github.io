@@ -51,7 +51,6 @@ div h4 {
   background-color: orange;
   width: 10%;
   height: 100%;
-  margin-top: -50px;
   margin-bottom: 10px;
 }
 
@@ -61,7 +60,6 @@ div h4 {
   background-color: cyan;
   width: 89.25%;
   height: 100%;
-  margin-top: -50px;
   margin-bottom: 10px;
   display: inline-block;
   /*white-space: nowrap;
