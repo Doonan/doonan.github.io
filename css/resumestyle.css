@@ -45,25 +45,32 @@ div h4 {
   padding-left: 21px;
 }
 
+.holder {
+  height: 100%;
+  overflow: hidden;
+}
+
+.holder div {
+  background-color: cyan;
+  margin-bottom: -100em;
+  padding-bottom: 100em;
+}
+
+.holder .left {
+  background-color: orange;
+}
+
 .left {
   float: left;
   position: relative;
-  background-color: orange;
   width: 10%;
-  height: 100%;
-  margin-bottom: 10px;
 }
 
 .right {
   float: right;
   position: relative;
-  background-color: cyan;
   width: 89.25%;
-  height: 100%;
-  margin-bottom: 10px;
   display: inline-block;
-  /*white-space: nowrap;
-  overflow: hidden;*/
 }
 
 #footer {
@@ -71,12 +78,13 @@ div h4 {
   position: relative;
   text-align: center;
   background-color: gray;
-  height: 2.5em;
+  height: 100%;
+  margin-top: -5px;
+  padding-bottom: 0px;
 }
 
 #footer p {
   position: relative;
-  padding-top: 11px;
-  white-space: nowrap;
-  overflow: hidden;
+  padding-top: 10px;
+  margin-bottom: 10px;
 }
