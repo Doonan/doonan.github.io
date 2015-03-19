@@ -18,7 +18,6 @@ div h4 {
 
 #header {
   position: relative;
-  clear: both;
   z-index: 1;
   text-align: center;
   background-color: gray;
