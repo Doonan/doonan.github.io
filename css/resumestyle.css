@@ -26,7 +26,7 @@ div h4 {
   width: 98.8%;
   height: 3.5em;
   white-space: nowrap;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 .title {
