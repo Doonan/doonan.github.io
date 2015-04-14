@@ -51,13 +51,13 @@ div h4 {
 }
 
 .holder div {
-  background-color: cyan;
+  background-color: #B2FFFF;
   margin-bottom: -100em;
   padding-bottom: 100em;
 }
 
 .holder .left {
-  background-color: orange;
+  background-color: #FF9147;
 }
 
 .left {
