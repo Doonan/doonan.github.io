@@ -20,7 +20,7 @@ div h4 {
   position: fixed relative;
   z-index: 1;
   text-align: center;
-  background-color: gray;
+  background-color: #94B8B8;
   margin-top: -1em;
   margin-bottom: 10px;
   height: 3.5em;
@@ -77,7 +77,7 @@ div h4 {
   clear: both;
   position: relative;
   text-align: center;
-  background-color: gray;
+  background-color: #94B8B8;
   height: 100%;
   margin-top: -5px;
   padding-bottom: 0px;
